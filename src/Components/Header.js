@@ -5,7 +5,7 @@ export default function Header(){
                 <a>Sorting Algorithm Visualizer</a>
             </div>
             <div className="code">
-                <a href="">Check the Code</a>
+                <a href="https://github.com/chirayu-humar/Sorting_visualizer.git">Check the Code</a>
             </div>
         </header>
     );
